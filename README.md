@@ -2,7 +2,7 @@
 
 ## Tattoo for me
 
-## How many languages I KNOW
+## How many languages I Knew
 
 ## Collection from Internet
 
