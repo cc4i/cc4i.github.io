@@ -6,4 +6,5 @@
 
 ## Learing
 
-2. [Dive into Deep Learning: An interactive deep learning book with code, math, and discussions](http://numpy.d2l.ai/)
+1. [Dive into Deep Learning](http://numpy.d2l.ai/) 
+  An interactive deep learning book with code, math, and discussions
